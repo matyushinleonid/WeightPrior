@@ -6,9 +6,9 @@
 
 ## Project Proposal
 [Overleaf Document](https://www.overleaf.com/read/njvynwkrxzvd)
+[PDF](https://github.com/matyushinleonid/WeightPrior/blob/master/BMML_Project_Proposal.pdf)
 
 ## Goals
-
 We are going to reproduce considered in the paper experiments and prove (or disprove) that for dwp we have that
 
 * dwp improve the performance of Bayesian neural networks in case of limited data
