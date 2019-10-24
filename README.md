@@ -18,5 +18,5 @@ We are going to reproduce considered in the paper experiments and prove (or disp
 * Leonid Matyushin
 
 ## How-to Reproduce Experiments
-* run [Auxiliary CNN Training](https://github.com/matyushinleonid/WeightPrior/blob/master/get_kernels.ipynb)
-* run [Experiments](https://github.com/matyushinleonid/WeightPrior/blob/master/train_vae.ipynb)
+* run [Auxiliary CNN Training](https://github.com/matyushinleonid/WeightPrior/blob/master/get_kernels.py) with the command `python get_kernels.py` 
+* run [Experiments](https://github.com/matyushinleonid/WeightPrior/blob/master/experiments.ipynb) with the command `runipy experiments.ipynb`. You can install runipy via `pip install runipy`
