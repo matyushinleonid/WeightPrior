@@ -5,8 +5,8 @@
 [arXiv:1810.06943](https://arxiv.org/abs/1810.06943)
 
 ## Project Proposal
-[Overleaf Document](https://www.overleaf.com/read/njvynwkrxzvd)
-[PDF](https://github.com/matyushinleonid/WeightPrior/blob/master/BMML_Project_Proposal.pdf)
+* [Overleaf Document](https://www.overleaf.com/read/njvynwkrxzvd)
+* [PDF](https://github.com/matyushinleonid/WeightPrior/blob/master/BMML_Project_Proposal.pdf)
 
 ## Goals
 We are going to reproduce considered in the paper experiments and prove (or disprove) that for dwp we have that
@@ -18,3 +18,5 @@ We are going to reproduce considered in the paper experiments and prove (or disp
 * Leonid Matyushin
 
 ## How-to Reproduce Experiments
+* run [Auxiliary CNN Training](https://github.com/matyushinleonid/WeightPrior/blob/master/get_kernels.ipynb)
+* run [Experiments](https://github.com/matyushinleonid/WeightPrior/blob/master/train_vae.ipynb)
